@@ -1,17 +1,11 @@
-# Narrow Master Minded
-![NarrowMasterMinded Release](https://github.com/LegionTD2-Modding/NarrowMasterMinded/actions/workflows/build_release_tag.yml/badge.svg)
-
-This Legion TD2 mod was originally made for [Pennywise](https://www.twitch.tv/pennywiseuk), to only allow the mastermind legion Yolo (aka _the only good option_)\
-But it was extended to make the option configurable directly in game with a new options tab.
-
-Additionally, this mod will serve as demo/tutorial for the LTD2 modding framework once it is available.\
-It is therefore copiously commented to help anyone wanting to understand its inner workings.
+# 7TD
+Become the best memer in town with these new custom emotes for your Legion TD2 chats. 
 
 ## Installation
 - Close the game
 - If not already done, follow this guide to install [BepInEx](https://github.com/LegionTD2-Modding/.github/wiki/Installation-of-BepInEx)
-- Download the latest [release](https://github.com/LegionTD2-Modding/NarrowMasterMinded/releases/latest), and drop `NarrowMasterMinded.dll` inside your `Legion TD 2/BepInEx/plugins/` folder
-- You are done, you can start the game and enjoy!
+- Download the latest [release](https://github.com/BoSen29/7TD/releases/latest), and drop `7TD.dll` inside your `Legion TD 2/BepInEx/plugins/` folder
+- You are done, you can start the game and enjoy all the :xdding: in the world.!
 
 ## Build
 This mod is made using [BepInEx](https://github.com/BepInEx/BepInEx), which is required to build.\
