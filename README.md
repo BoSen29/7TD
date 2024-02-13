@@ -1,4 +1,6 @@
 # 7TD
+![7TD Release](https://github.com/BoSen29/7TD/actions/workflows/build_release_tag.yml/badge.svg)
+
 Become the best memer in town with these new custom emotes for your Legion TD2 chats. 
 
 ## Installation
