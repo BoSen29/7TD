@@ -1,4 +1,4 @@
-name: NarrowMasterMinded Release
+name: 7TD Release
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - v*
 
 env:
-  LIB_NAME: NarrowMasterMinded
+  LIB_NAME: 7TD
 
 jobs:
   build-and-release:
