@@ -3,6 +3,10 @@
 
 Become the best memer in town with these new custom emotes for your Legion TD2 chats. 
 
+![Emotes at work](https://github.com/BoSen29/7TD/blob/main/emote.png?raw=true)
+
+The emote repository is managed my BoSen and Drachir.
+
 ## Installation
 - Close the game
 - If not already done, follow this guide to install [BepInEx](https://github.com/LegionTD2-Modding/.github/wiki/Installation-of-BepInEx)
