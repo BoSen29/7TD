@@ -137,7 +137,7 @@ this.setState({{ previewFilter: """" }})
             lines[1048] = lines[1048] + $@"
 
 function parseSevenTVEmotes(html, emotes) {{
-    var re = new RegExp(/:[A-z]*:/g)
+    var re = new RegExp(/:[0-z]*:/g)
     var ma
     try {{
         while ((ma = re.exec(html.content)) !== null) {{
