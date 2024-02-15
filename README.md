@@ -5,7 +5,7 @@ Become the best memer in town with these new custom emotes for your Legion TD2 c
 
 ![Emotes at work](https://github.com/BoSen29/7TD/blob/main/emote.png?raw=true)
 
-The emote repository is managed my BoSen and Drachir.
+The emote repository is managed by BoSen and Drachir.
 
 ## Installation
 - Close the game
