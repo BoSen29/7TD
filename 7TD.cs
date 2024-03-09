@@ -62,7 +62,7 @@ namespace SevenTD
                 Logger.LogError("7TD: Chatviews already modded :O, skipping injecting.");
                 return;
             }
-            if (lines.Length != 1049) {
+            if (lines.Length != 1062) {
                 Logger.LogError("7TD: Skipping injection, file is not expected length of 1049 but was " + lines.Length);
                 return;
             }
@@ -133,8 +133,8 @@ this.setState({{ previewFilter: """" }})
             lines[773] = lines[773] + $@"
         emotes: React.PropTypes.Object";
 
-            lines[792] = lines[792].Replace("line", "parseSevenTVEmotes(line, parent.props.emotes)");
-            lines[1048] = lines[1048] + $@"
+            lines[796] = lines[796].Replace("line", "parseSevenTVEmotes(line, parent.props.emotes)");
+            lines[1061] = lines[1061] + $@"
 
 function parseSevenTVEmotes(html, emotes) {{
     var re = new RegExp(/:[0-z]*:/g)
